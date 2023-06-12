@@ -12,19 +12,21 @@ Born2beroot is a project designed to help you gain practical experience in setti
 
 By completing this project, you will learn essential server administration skills, including user and group management, disk partitioning, network configuration, firewall setup, and more.
 
-Installation
+<h1> Installation </h1>
 To get started with Born2beroot, follow these steps:
 
 Clone the Born2beroot repository from GitHub:
 
-bash
-Copy code
-git clone https://github.com/your-username/born2beroot.git
+      bash
+    Copy code
+    git clone https://github.com/your-username/born2beroot.git
 Change into the project directory:
 
-bash
-Copy code
-cd born2beroot
+    bash
+
+    Copy code
+
+    cd born2beroot
 Review the installation requirements in the project's documentation.
 
 Run the installation script with root privileges:
