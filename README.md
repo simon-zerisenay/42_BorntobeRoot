@@ -18,9 +18,7 @@ To get started with Born2beroot, follow these steps:
 Clone the Born2beroot repository from GitHub:
 
       bash
-f
     Copy code
- f
     git clone https://github.com/your-username/born2beroot.git
 Change into the project directory:
 
